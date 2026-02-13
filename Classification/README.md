@@ -45,9 +45,8 @@ Accuracy: **95.61%**
 
 Confusion Matrix:
 
-[[71 1]
-
-[ 4 38]]
+# [[71 1]
+#[ 4 38]]
 ---
 
 ##  Conclusion
@@ -56,5 +55,6 @@ Confusion Matrix:
 - Small K values may lead to **overfitting** (model becomes sensitive to noise).
 - Very large K values may cause **underfitting** (model becomes too generalized).
 - Proper K selection is critical for optimal KNN performance.
+
 
 
